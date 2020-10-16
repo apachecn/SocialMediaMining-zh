@@ -3,7 +3,7 @@
 <center>寻找互联网数据中的故事</center>
 <center>Lam Thuy Vo</center>
 
-<center><img src="img/media/image1.jpeg" alt="San Francisco" /></center>
+<center><img src="docs/img/media/image1.jpeg" alt="San Francisco" /></center>
 
 <center>
 
@@ -13,11 +13,10 @@
 
 **电话：18616020096**</center>
 
-
 概要
 ----
 
-![](docs/img/media/image2.jpeg)
+<center><img src="docs/img/media/image2.jpeg" /></center>
 
 我们在互联网上的互动和行为都被社交媒体平台捕捉了。虽然Facebook或Twitter等公司肯定已经找到了综合利用这些数据的方法，但作者坚信应让研究人员和用户自己能够从这些庞大的数据集中发展自己的见解。这本书提供了一个初学者友好的方式来介绍这种数据分析。
 
