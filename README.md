@@ -1,4 +1,4 @@
-# <center>**社交媒体挖掘 - 翻译版**</center>
+# <center>社交媒体挖掘 - 翻译版</center>
 
 <center>寻找互联网数据中的故事</center>
 <center>Lam Thuy Vo</center>
