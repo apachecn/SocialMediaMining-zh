@@ -175,3 +175,28 @@ Quynh Vo，她就是未来。
 
 本书的各章旨在遵循数据侦查的过程。由介绍如何以及在何处从社交网络查找数据开始，并在之后的章节中了解处理、探索和分析数据所需的工具。
 
+## 下载
+
+### Docker
+
+```
+docker pull apachecn0/socialmediamining-zh
+docker run -tid -p <port>:80 apachecn0/socialmediamining-zh
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install socialmediamining-zh
+socialmediamining-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g socialmediamining-zh
+socialmediamining-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
