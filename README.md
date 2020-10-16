@@ -17,7 +17,7 @@
 概要
 ----
 
-![](img/media/image2.jpeg)
+![](docs/img/media/image2.jpeg)
 
 我们在互联网上的互动和行为都被社交媒体平台捕捉了。虽然Facebook或Twitter等公司肯定已经找到了综合利用这些数据的方法，但作者坚信应让研究人员和用户自己能够从这些庞大的数据集中发展自己的见解。这本书提供了一个初学者友好的方式来介绍这种数据分析。
 
@@ -25,7 +25,6 @@
 
 现在言归正传，让我们开始吧!
 
-- [第一部分 数据挖掘](docs/array/README.md)
 - 第一部分 数据挖掘
     + [1 应了解的编程语言](docs/1.md)
       + 介绍了前端语言(HTML、CSS和JavaScript)，以及它们在社交媒体数据挖掘环境中的重要性。通过交互式shell中的实践练习来学习Python的基础知识。
@@ -55,32 +54,29 @@
     + [2 通过解析网页直接获取哔哩某播主的详细信息](docs/102.md)
     + [3 在离线表格软件中打开和处理csv文件](docs/103.md)
 
+---
 
-**社交媒体挖掘** Copyright © 2020 by Lam Thuy Vo. 保留部分权利。该作品已根据知识共享许可 **Attribution-NonCommercial-ShareAlike
-3.0美国许可证。要查看此许可证的副本，请访问 http://creativecommons.org/licenses/by-nc-sa/3.0/us/或致 **Creative
+
+**社交媒体挖掘** Copyright © 2020 by Lam Thuy Vo. 保留部分权利。
+
+该作品已根据知识共享许可 **Attribution-NonCommercial-ShareAlike 3.0美国许可证。
+
+要查看此许可证的副本，请访问 http://creativecommons.org/licenses/by-nc-sa/3.0/us/或致 **Creative
 Commons** 信函，PO Box 1866, Mountain View, CA 94042, USA.
 
+```
 ISBN-10: 1-59327-916-7
-
 ISBN-13: 978-1-59327-916-5
-
 出版者：William Pollock
-
 生产编辑：Meg Sneeringer
-
 封面设计：Gina Redman
-
 开发编辑：Jan Cash and Alex Freed
-
 技术审查者：Melissa Lewis
-
 编审：Rachel Monaghan
-
 排版：Danielle Foster
-
 校对者：Emelie Burnette
-
 索引者：Beth Nauman-Montana
+```
 
 **有关发行，翻译或批量销售的信息，请直接联系No Starch Press，Inc.：**
 
@@ -88,8 +84,7 @@ No Starch Press，Inc.
 
 245 8th Street，San Francisco, CA 94103
 
-phone:
-1.415.863.9900；
+phone: 1.415.863.9900
 
 [info@nostarch.com](mailto:info@nostarch.com) 
 
