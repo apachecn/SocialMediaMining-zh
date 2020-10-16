@@ -18,7 +18,7 @@
 
 <center><img src="docs/img/media/image2.jpeg" /></center>
 
-我们在互联网上的互动和行为都被社交媒体平台捕捉了。虽然Facebook或Twitter等公司肯定已经找到了综合利用这些数据的方法，但作者坚信应让研究人员和用户自己能够从这些庞大的数据集中发展自己的见解。这本书提供了一个初学者友好的方式来介绍这种数据分析。
+我们在互联网上的互动和行为都被社交媒体平台捕捉了。虽然 Facebook 或 Twitter 等公司肯定已经找到了综合利用这些数据的方法，但作者坚信应让研究人员和用户自己能够从这些庞大的数据集中发展自己的见解。这本书提供了一个初学者友好的方式来介绍这种数据分析。
 
 作者已经做了十多年的讲师，真的很喜欢看到学生和同龄人取得成功。虽然这本书的范围有限，但仍希望能激起初学者的好奇心，促使他们继续学习。为此，请随意浏览我网站上的大部分教材：[https://lamivo.com/tips.html](https://lamivo.com/tips.html)。
 
@@ -26,39 +26,39 @@
 
 - 第一部分 数据挖掘
     + [1 应了解的编程语言](docs/1.md)
-      + 介绍了前端语言(HTML、CSS和JavaScript)，以及它们在社交媒体数据挖掘环境中的重要性。通过交互式shell中的实践练习来学习Python的基础知识。
+      + 介绍了前端语言(HTML、CSS 和 JavaScript)，以及它们在社交媒体数据挖掘环境中的重要性。通过交互式 shell 中的实践练习来学习 Python 的基础知识。
     + [2 从哪里获取数据](docs/2.md)
-      + 解释了什么是API以及可以通过它们访问什么类型的数据，并指导读者访问JSON格式的数据。本章还介绍了为数据分析制定一个研究问题的过程。
+      + 解释了什么是 API 以及可以通过它们访问什么类型的数据，并指导读者访问 JSON 格式的数据。本章还介绍了为数据分析制定一个研究问题的过程。
     + [3 用代码获取数据](docs/3.md)
-      + 展示了如何收集从YouTube API返回的数据，并使用Python将其从JSON重构为电子表格，特别是csv文件格式。
-    + [4 收集自己的FACEBOOK数据](docs/4.md)
-      + 定义了抓取，并描述了如何检查HTML并把其内容变成数据。使用社交媒体公司向用户提供的数据档案展示了如何把数据提取到csv文件中。
+      + 展示了如何收集从 YouTube API 返回的数据，并使用 Python 将其从 JSON 重构为电子表格，特别是 csv 文件格式。
+    + [4 收集自己的 FACEBOOK 数据](docs/4.md)
+      + 定义了抓取，并描述了如何检查 HTML 并把其内容变成数据。使用社交媒体公司向用户提供的数据档案展示了如何把数据提取到 csv 文件中。
     + [5 抓取实时站点](docs/5.md)
       + 解释了抓取网站的道德考量，并指导你为一个维基百科页面编写一个抓取器的过程。
 + 第二部分 数据分析
     + [6 数据分析导论](docs/6.md)
-      + 介绍了数据分析中涉及的各种过程，并通过使用Google Sheets分析来自自动帐户(或机器人)的数据。
+      + 介绍了数据分析中涉及的各种过程，并通过使用 Google Sheets 分析来自自动帐户(或机器人)的数据。
     + [7 数据可视化](docs/7.md)
-      + 在Google Sheets中制作图表并使用条件格式突出显示数据变化，通过可视化更好地理解数据。
+      + 在 Google Sheets 中制作图表并使用条件格式突出显示数据变化，通过可视化更好地理解数据。
     + [8 数据分析的高级工具](docs/8.md)
-      + 把从分析Google Sheets中的数据中学到的概念转移到程序分析的领域。如何在Python 3中设置虚拟环境，如何使用Jupyter Notebook以及如何使用Python中的Pandas库，探索数据集的结构和广度。
-    + [9 在REDDIT数据中寻找趋势](docs/8.md)
-      + 在上一章的基础上展示了如何使用Pandas函数修改数据，筛选数据以及使用基本聚合。
-    + [10 测量公众人物的Twitter活动](docs/10.md)
-      + 解释如何将数据格式化为时间戳，如何使用lambda函数更有效地修改数据以及如何在Pandas中进行采样。
+      + 把从分析 Google Sheets 中的数据中学到的概念转移到程序分析的领域。如何在 Python 3 中设置虚拟环境，如何使用 Jupyter Notebook 以及如何使用 Python 中的 Pandas 库，探索数据集的结构和广度。
+    + [9 在 REDDIT 数据中寻找趋势](docs/8.md)
+      + 在上一章的基础上展示了如何使用 Pandas 函数修改数据，筛选数据以及使用基本聚合。
+    + [10 测量公众人物的 Twitter 活动](docs/10.md)
+      + 解释如何将数据格式化为时间戳，如何使用 lambda 函数更有效地修改数据以及如何在 Pandas 中进行采样。
     + [11 何去何从](docs/11.md)
-      + 列出了成为更好的Python编程者、学习更多有关统计分析以及使用自然语言处理和机器学习来分析文本的资源。
+      + 列出了成为更好的 Python 编程者、学习更多有关统计分析以及使用自然语言处理和机器学习来分析文本的资源。
 + 附 录
-    + [1 编写程序通过API获取网站的信息](docs/101.md)
+    + [1 编写程序通过 API 获取网站的信息](docs/101.md)
     + [2 通过解析网页直接获取哔哩某播主的详细信息](docs/102.md)
-    + [3 在离线表格软件中打开和处理csv文件](docs/103.md)
+    + [3 在离线表格软件中打开和处理 csv 文件](docs/103.md)
 
 ---
 
 
 **社交媒体挖掘** Copyright © 2020 by Lam Thuy Vo. 保留部分权利。
 
-该作品已根据知识共享许可 **Attribution-NonCommercial-ShareAlike 3.0美国许可证。
+该作品已根据知识共享许可 **Attribution-NonCommercial-ShareAlike 3.0 美国许可证。
 
 要查看此许可证的副本，请访问 http://creativecommons.org/licenses/by-nc-sa/3.0/us/或致 **Creative
 Commons** 信函，PO Box 1866, Mountain View, CA 94042, USA.
@@ -77,7 +77,7 @@ ISBN-13: 978-1-59327-916-5
 索引者：Beth Nauman-Montana
 ```
 
-**有关发行，翻译或批量销售的信息，请直接联系No Starch Press，Inc.：**
+**有关发行，翻译或批量销售的信息，请直接联系 No Starch Press，Inc.：**
 
 No Starch Press，Inc.
 
@@ -94,38 +94,38 @@ phone: 1.415.863.9900
 关于作者
 ========
 
-作者Lam Thuy
-Vo是BuzzFeed的一名高级记者，其专业领域处于技术、社会和社交媒体数据的交汇点。她揭示了虚假信息、网络仇恨和平台相关责任等信息。此前，她曾领导团队为《华尔街日报》、美国半岛电视台(Al
+作者 Lam Thuy
+Vo 是 BuzzFeed 的一名高级记者，其专业领域处于技术、社会和社交媒体数据的交汇点。她揭示了虚假信息、网络仇恨和平台相关责任等信息。此前，她曾领导团队为《华尔街日报》、美国半岛电视台(Al
 Jazeera America)和美国国家公共电台(NPR)的金钱星球(Planet
-Money)进行新闻报道，这些报道讲述了美国和整个亚洲的经济故事。她还担任了10年的教育工作者，在此期间开发了新闻编辑室内容的培训项目，为世界各地的记者举办了讲习班，并为克雷格·纽马克·纽约市立大学新闻研究生院(Craig
+Money)进行新闻报道，这些报道讲述了美国和整个亚洲的经济故事。她还担任了 10 年的教育工作者，在此期间开发了新闻编辑室内容的培训项目，为世界各地的记者举办了讲习班，并为克雷格·纽马克·纽约市立大学新闻研究生院(Craig
 Newmark CUNY Graduate School of
-Journalism)开设了长达一个学期的课程。她还在快闪杂志、翠贝卡电影节互动日、TEDxNYC等大型活动上发表过演讲。
+Journalism)开设了长达一个学期的课程。她还在快闪杂志、翠贝卡电影节互动日、TEDxNYC 等大型活动上发表过演讲。
 
 关于技术审核者
 ==============
 
 梅利莎·刘易斯（Melissa
-Lewis）是调查报告中心（Reveal）的数据记者。在加入Reveal之前，她是The
-Oregonian的数据编辑，Simple的数据工程师，Periscopic的数据分析师以及Oregon
-Health＆Science University的神经科学研究助理。她是PyLadies
-Portland和亚裔美国人新闻工作者协会的Portland分会的组织者。
+Lewis）是调查报告中心（Reveal）的数据记者。在加入 Reveal 之前，她是 The
+Oregonian 的数据编辑，Simple 的数据工程师，Periscopic 的数据分析师以及 Oregon
+Health＆Science University 的神经科学研究助理。她是 PyLadies
+Portland 和亚裔美国人新闻工作者协会的 Portland 分会的组织者。
 
 致谢
 ====
 
-这也许不是"谢谢"，而是对在生命中并以某种方式使我伤心的人们的认可：没有这些痛苦就不会有Quantified
-Breakup，一个关于情感弹性的数据可视化的博客。正是这个项目把我的工作推向了新的方向------探索社交媒体数据和quantified
-selfies"。在进行这个项目的时候，"No Starch Press"的编辑Jan
-Cash来找我写了这本书。
+这也许不是"谢谢"，而是对在生命中并以某种方式使我伤心的人们的认可：没有这些痛苦就不会有 Quantified
+Breakup，一个关于情感弹性的数据可视化的博客。正是这个项目把我的工作推向了新的方向------探索社交媒体数据和 quantified
+selfies"。在进行这个项目的时候，"No Starch Press"的编辑 Jan
+Cash 来找我写了这本书。
 
-更重要的是，一些人仍然在我的生命中支持着我。感谢má Lua和ba
-Liem让我成为一个富有同情心和充满好奇的人，感谢我的兄弟Luan Vo Nguyen
-Quang和我的嫂子Tiffany Talsma，感谢他们坚定且多年的支持，感谢Cathy
-Deng和Jamica El在我早期于湾区时Python经历中所给予的鼓励，感谢Julia B.
-Chan、Lo Benichou、Aaron Williams、Ted Han和Andrew
-Tran，感谢他们在一个充满竞争对手的行业中表现出的同志情谊，感谢John
-Wingenter、Adrienne Lopes、Vita Ayala、Mariru Kojima和Toyin Ojih
-Odutola，感谢他们对我在远离家的时间内给与如同家的照顾，同时感谢我的侄女Elynna
+更重要的是，一些人仍然在我的生命中支持着我。感谢 má Lua 和 ba
+Liem 让我成为一个富有同情心和充满好奇的人，感谢我的兄弟 Luan Vo Nguyen
+Quang 和我的嫂子 Tiffany Talsma，感谢他们坚定且多年的支持，感谢 Cathy
+Deng 和 Jamica El 在我早期于湾区时 Python 经历中所给予的鼓励，感谢 Julia B.
+Chan、Lo Benichou、Aaron Williams、Ted Han 和 Andrew
+Tran，感谢他们在一个充满竞争对手的行业中表现出的同志情谊，感谢 John
+Wingenter、Adrienne Lopes、Vita Ayala、Mariru Kojima 和 Toyin Ojih
+Odutola，感谢他们对我在远离家的时间内给与如同家的照顾，同时感谢我的侄女 Elynna
 Quynh Vo，她就是未来。
 
 
@@ -166,7 +166,7 @@ Quynh Vo，她就是未来。
 
 考虑到所有这些因素，其中需要特别注意的是：这本书不仅仅是一个代码片段的汇编，这些代码随时可以被插入和使用。虽然这些代码仅仅包含了一些帮助收集和分析来自社交网络数据的脚本，但也是用来教授数据分析过程的基本概念和工具。应当把将这些章节视为对有志于研究特定主题或问题研究人员的指南。作者希望读者能掌握开展自我学习和探索该领域所需的基础知识。毕竟，社交媒体的格局在不断变化，这表明读者需要灵活且不断调整分析方法来理解其产生的数据。
 
-本书是为了优先考虑读者的学习过程，而不是为了代码的优雅。例如，一段代码使用了很多全局变量。虽然这可能不是最有效的编码方式，但是对于Python新手来说，这是一种友好的方式。
+本书是为了优先考虑读者的学习过程，而不是为了代码的优雅。例如，一段代码使用了很多全局变量。虽然这可能不是最有效的编码方式，但是对于 Python 新手来说，这是一种友好的方式。
 
 至于所涉及的工具，有两个主要的标准：在网上免费获得的工具；入门门槛相对较低的工具。这些工具可以让初学者从简单的项目开始。
 
